@@ -1,4 +1,4 @@
-# UFOs
+# UFOs - ****Please see UFO Challenge Summary document****
 Project Overview
 Pictures are worth a thousand words.  Data visualizations helps the website developer to report data that is clear, accessible, and unified. 
 JavaScript is a coding language designed to upgrade webpages by enhancing the users involvement. Javascript enhances websites by providing front-end functionality, customization, dashboards (such as maps or graphs), and allows for user input to create dynamic web pages. 
